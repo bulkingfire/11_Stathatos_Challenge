@@ -1,0 +1,20 @@
+{
+    "name": "challenge-11",
+
+    "version": "1.0",
+
+    "description": "",
+    
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+
+
+    "author": "vageli",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.4",
+        "nodemon": "^2.0.21"
+    }
+}
